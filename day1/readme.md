@@ -21,7 +21,9 @@ nvm install 14
 ### install webjs npm package 
 
 ```
-npm install web3
+npm install 
+
+npm run run
 ```
 
 ### Run the program
